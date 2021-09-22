@@ -1,4 +1,5 @@
-### Perfil de um "coroa" da profissão tentando ser descolado igual os mais xóvens 👋
+### 🇧🇷 Oi! Eu sou o Roosevelt, front-end desde 2003 e carioca desde 2009 🌴😎🏖️.
+### 🇧🇷 Hello! I'm Roosevelt, front-end developer since 2003 and live in Rio de Janeiro/Brazil 🌴😎🏖️.
 
  <div>
   <a href="https://github.com/roofranklin" target="_blank">
