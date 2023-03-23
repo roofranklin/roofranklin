@@ -20,6 +20,8 @@
   </a>
 </p>
 
+
+
 ## 🚀 Sobre mim
 Tenho 41 anos, moro no Rio de Janeiro e sou desenvolvedor front-end desde 2003 (Sobrevivi ao IE6 kkk). 
 
@@ -36,6 +38,8 @@ Atuei por 6 anos na Telecom Rio Group onde evoluí de desenvolvedor pleno até a
 Desenvolvi na Spirit comunicação sites incríveis para Shell, Petrobrás, Tim, Terra, Shopping Rio Design, entre outros clientes. Tive uma evolução incrível na qualidade visual dos meus trabalhos graças ao período em que trabalhei lá.
 
 Obrigado pela atenção para quem leu até aqui e fico à disposição para contato.
+
+
 
 ## 🚶🏽‍♂️ Trajetória Profissional
 
