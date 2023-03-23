@@ -85,11 +85,11 @@ Obrigado pela atenção para quem leu até aqui e fico à disposição para cont
 ### Front-End Development
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![vue](https://img.shields.io/badge/Vue-3fb27f?style=for-the-badge&logo=vue&logoColor=32475B)
+![vue](https://img.shields.io/badge/Vue-3fb27f?style=for-the-badge&logo=vuedotjs&logoColor=32475B)
 ![angular](https://img.shields.io/badge/Angular-593D88?style=for-the-badge&logo=angular&logoColor=white)
 ![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![nuxt](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=FFFFFF)
+![nuxt](https://img.shields.io/badge/Nuxt-3fb27f?style=for-the-badge&logo=nuxtdotjs&logoColor=FFFFFF)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 ![three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
