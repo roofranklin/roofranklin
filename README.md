@@ -18,8 +18,24 @@
   </a>
 </p>
 
-### 🇧🇷 Oi! Eu sou o Roosevelt, front-end desde 2003 e carioca desde 2009 🌴😎🏖️.
-### 🇺🇸 Hello! I'm Roosevelt, front-end developer since 2003 and live in Rio de Janeiro/Brazil 🌴😎🏖️.
+# Olá, eu sou o Roosevelt 👋
+
+## 🚀 Sobre mim
+Tenho 41 anos, moro no Rio de Janeiro e sou desenvolvedor front-end desde 2003 (Sobrevivi ao IE6 kkk). 
+
+Nesses 20 anos de carreira eu tive diversas conquistas e desafios entre todos eu destaco os seguintes:
+
+Mentoria de carreira para dezenas de desenvolvedores Juniores ou pessoas vindas de outra profissão para iniciar como desenvolvedor web. Hoje tenho orgulho de ver alguns já bem encaminhados na carreira.
+
+Processo de transformação digital na ferramenta de pagamento da Herospark onde transformamos um script de pagamento simples em um carrinho de compras completo todo feito em SSR e com cobertura de testes completa. Reduzimos a quantidade de bugs de pagamentos para quase zero com um carrinho moderno, seguro e bem codificado.
+
+Refatoração do sistema de abertura de sinistros auto e residencial na Bradesco Seguros. Trabalhei na transformação de templates jsf encapsulados em um sistema Java para duas soluções completas usando React e Vue consumindo API do Backend. Isso trouxe escalabilidade para os sistemas e além de melhorar a manutenção conseguimos uma economia em tráfego na Infra de mais de 40%.
+
+Atuei por 6 anos na Telecom Rio Group onde evoluí de desenvolvedor pleno até a posição de Lead de front-end. Desenvolvemos dezenas de produtos internos, plataforma de pagamento e também fui o responsável pelo frontend do sistema de agendamento para o visto americano entre 2012 e 2015. Esse sistema no qual participei foi homologado pela embaixada e exportado para mais 2 países.
+
+Desenvolvi na Spirit comunicação sites incríveis para Shell, Petrobrás, Tim, Terra, Shopping Rio Design, entre outros clientes. Tive uma evolução incrível na qualidade visual dos meus trabalhos graças ao período em que trabalhei lá.
+
+Obrigado pela atenção para quem leu até aqui e fico à disposição para contato.
 
  <div>
   <a href="https://github.com/roofranklin" target="_blank">
