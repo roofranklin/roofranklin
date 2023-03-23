@@ -1,3 +1,20 @@
+<img src="rcode-header.png" alt="Capa de perfil com foto de Roosevelt Franklin" width="100%" />
+
+<p align="left">
+  <a href="https://github.com/roofranklin/roofranklin">
+    <img src="https://komarev.com/ghpvc/?username=roofranklin&color=red" alt="profile views" />
+  </a>
+  <a href="https://github.com/roofranklin/roofranklin">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
+  </a>
+  <a href="https://www.linkedin.com/in/rooseveltfranklin/">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
+  </a>
+  <a href="https://instagram.com/rcodeoficial">
+    <img alt="Instagram followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=instagram">
+  </a>
+</p>
+
 ### 🇧🇷 Oi! Eu sou o Roosevelt, front-end desde 2003 e carioca desde 2009 🌴😎🏖️.
 ### 🇺🇸 Hello! I'm Roosevelt, front-end developer since 2003 and live in Rio de Janeiro/Brazil 🌴😎🏖️.
 
