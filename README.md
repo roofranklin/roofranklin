@@ -1,5 +1,7 @@
 <img src="rcode-header.png" alt="Capa de perfil com foto de Roosevelt Franklin" width="100%" />
 
+# Olá, eu sou o Roosevelt 👋
+
 <p align="left">
   <a href="http://rcode.com" target="_blank">
     <img src="https://img.shields.io/badge/20-years%20expeience-blueviolet" alt="20 years experience" />
@@ -18,8 +20,6 @@
   </a>
 </p>
 
-# Olá, eu sou o Roosevelt 👋
-
 ## 🚀 Sobre mim
 Tenho 41 anos, moro no Rio de Janeiro e sou desenvolvedor front-end desde 2003 (Sobrevivi ao IE6 kkk). 
 
@@ -37,25 +37,33 @@ Desenvolvi na Spirit comunicação sites incríveis para Shell, Petrobrás, Tim,
 
 Obrigado pela atenção para quem leu até aqui e fico à disposição para contato.
 
- <div>
-  <a href="https://github.com/roofranklin" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roofranklin&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roofranklin&layout=compact&langs_count=7&theme=bear"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Roosevelt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Roosevelt-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Roosevelt-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Roosevelt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Roosevelt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Roosevelt-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/roofranklin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:roosevelt.franklin81@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rooseveltfranklin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 🚶🏽‍♂️ Trajetória Profissional
+
+- 2003 - Comecei freelancer fazendo sites em Flash e HTML/CSS
+
+- 2005 - Iniciei faculdade de Criação e Gestão de Ambientes Web
+
+- 2006 - Meu primeiro estágio (só consertei impressora e fiz ☕)
+
+- 2008 - Primeira vaga de Webdesigner Junior e Iniciação ao Javascript/JQuery
+
+- 2009 - Terminei faculdade e fui trabalhar em pequenas agências de publicidade.
+
+- 2010 - Mudei pra capital, virei fullstack pleno e troquei os sites de padaria do seu zé por sites para grandes marcas.
+
+- 2011 - Voltei ao front-end e decidi me especializar em Javascript.
+
+- 2012 - Entrei na Telecom Rio, empresa que permaneci por 6 anos. Entrei dev pleno e saí Tech Lead.
+
+- 2012 - Trabalhei no sistema de agendamento do consulado americano. Sistema foi tão bem sucedido que além de homologado foi exportado como exemplo para mais 3 países.
+
+- 2016 - Primeiro contato com Angular JS.
+
+- 2018 - Primeiro contato com React e VueJS.
+
+- 2019 - Implementação de transformação digital na Bradesco Seguros com modernização de linguagem, design system e rearquitetura.
+
+- 2020 - Primeiro contato com Testes, CI/CD, AWS e pipelines de deploy. Implementação de transformação digital em plataforma de pagamentos com modernização do script, criação de carrinho de compras, testes automatizados e deploy automatizado.
+
+- 2021 - Lider técnico em um processo de transformação degital em uma plataforma de comunicação com implementação de microsserviços, design system, escrita de testes e modernização de linguagem.
+
