@@ -1,17 +1,20 @@
 <img src="rcode-header.png" alt="Capa de perfil com foto de Roosevelt Franklin" width="100%" />
 
 <p align="left">
-  <a href="https://github.com/roofranklin/roofranklin">
-    <img src="https://komarev.com/ghpvc/?username=roofranklin&color=red" alt="profile views" />
+  <a href="http://rcode.com" target="_blank">
+    <img src="https://img.shields.io/badge/20-years%20expeience-blueviolet" alt="20 years experience" />
   </a>
   <a href="https://github.com/roofranklin/roofranklin">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
+    <img src="https://img.shields.io/badge/1.4k-profile%20views-red" alt="profile views" />
+  </a>
+  <a href="https://github.com/roofranklin/roofranklin">
+    <img src="https://img.shields.io/badge/56k-page%20views-orange" alt="page views" />
   </a>
   <a href="https://www.linkedin.com/in/rooseveltfranklin/">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.3K-blue?color=blue&logo=linkedin">
   </a>
   <a href="https://instagram.com/rcodeoficial">
-    <img alt="Instagram followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=instagram">
+    <img alt="Instagram followers" src="https://img.shields.io/badge/followers-1.1k-blue?color=orange&logo=instagram">
   </a>
 </p>
 
